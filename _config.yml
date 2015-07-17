@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://acidstorm.github.io
+title: Victor Akujobi
+tagline: Adventures in LIfe
+description: We all have noises in our heads, This is where I document mine.
+paginate: 5
